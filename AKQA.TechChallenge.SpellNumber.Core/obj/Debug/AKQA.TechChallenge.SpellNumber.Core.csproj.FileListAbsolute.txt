@@ -1,0 +1,8 @@
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\obj\Debug\AKQA.TechChallenge.SpellNumber.Core.csproj.CoreCompileInputs.cache
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\obj\Debug\AKQA.SpellNumber.Business.dll
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\obj\Debug\AKQA.SpellNumber.Business.pdb
+C:\_D\AKQA\AKQA.TechChallenge\AKQA.TechChallenge.SpellNumber.Core\bin\Debug\AKQA.SpellNumber.Business.dll
+C:\_D\AKQA\AKQA.TechChallenge\AKQA.TechChallenge.SpellNumber.Core\bin\Debug\AKQA.SpellNumber.Business.pdb
+C:\_D\AKQA\AKQA.TechChallenge\AKQA.TechChallenge.SpellNumber.Core\obj\Debug\AKQA.TechChallenge.SpellNumber.Core.csproj.CoreCompileInputs.cache
+C:\_D\AKQA\AKQA.TechChallenge\AKQA.TechChallenge.SpellNumber.Core\obj\Debug\AKQA.SpellNumber.Business.dll
+C:\_D\AKQA\AKQA.TechChallenge\AKQA.TechChallenge.SpellNumber.Core\obj\Debug\AKQA.SpellNumber.Business.pdb

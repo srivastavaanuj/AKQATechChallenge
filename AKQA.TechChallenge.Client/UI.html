@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h3>AKQA Technical Challenge</h3>
+    Enter Name:<br>
+    <input type="text" id="name" name="Name"><br>
+    Enter Number:<br>
+    <input type="number" id="numberVal" name="Number"> <br>
+    <button id="displayResult">Display Output</button>
+    <pre id="outputName"></pre>
+    <pre id="outputNumber"></pre>
+
+    <script src="Scripts/jquery-3.3.1.js"></script>
+    <script>
+        $(function () {
+
+            var apiUrl = "http://localhost:55435/api/number/";
+
+            var showResponse = function (object) {
+                $("#outputName").text($("#name").val().toUpperCase());
+                $("#outputNumber").text(JSON.stringify(object, null, 4));
+            };
+
+            var getResult = function () {
+
+                var endpointUrl = apiUrl + $("#numberVal").val() + '/';
+                $.ajax({
+                    url: endpointUrl,
+                    type: 'GET',
+                    dataType: 'json',
+                    error: function () {
+                        //Inspect error
+                    }
+                }).always(showResponse);
+
+                return false;
+            };
+
+            $("#displayResult").click(getResult);
+
+        });
+
+    </script>
+
+</body>
+</html>

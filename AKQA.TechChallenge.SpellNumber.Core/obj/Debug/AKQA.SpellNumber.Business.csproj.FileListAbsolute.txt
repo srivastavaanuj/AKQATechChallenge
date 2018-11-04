@@ -1,0 +1,6 @@
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\bin\Debug\AKQA.SpellNumber.Business.dll
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\bin\Debug\AKQA.SpellNumber.Business.pdb
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\obj\Debug\AKQA.SpellNumber.Business.csproj.CoreCompileInputs.cache
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\obj\Debug\AKQA.SpellNumber.Business.dll
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\obj\Debug\AKQA.SpellNumber.Business.pdb
+C:\_D\AKQA\NumberToWordsConvertor\AKQA.SpellNumber.Business\obj\Debug\AKQA.SpellNumber.Business.csprojResolveAssemblyReference.cache
